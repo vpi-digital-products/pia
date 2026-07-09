@@ -1,0 +1,17 @@
+.git
+.github
+node_modules
+dist
+out
+coverage
+cypress
+cypress/videos
+cypress/screenshots
+electron
+*.log
+.DS_Store
+Dockerfile
+.dockerignore
+docker-compose.yml
+.vscode
+.idea
