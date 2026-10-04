@@ -487,17 +487,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/router@npm:^20.3.2":
-  version: 20.3.3
-  resolution: "@angular/router@npm:20.3.3"
+"@angular/router@npm:^20.3.32":
+  version: 20.3.32
+  resolution: "@angular/router@npm:20.3.32"
   dependencies:
     tslib: "npm:^2.3.0"
   peerDependencies:
-    "@angular/common": 20.3.3
-    "@angular/core": 20.3.3
-    "@angular/platform-browser": 20.3.3
+    "@angular/common": 20.3.32
+    "@angular/core": 20.3.32
+    "@angular/platform-browser": 20.3.32
     rxjs: ^6.5.3 || ^7.4.0
-  checksum: 10c0/a5bb10d92ef1252039d70beb15e660a7dad29a4f06e83c19503832335eed1bf1957a5d093b10bc998e14051ef4f14f9e914469dea14c617213c4419ab0cc37e3
+  checksum: 10c0/8e89b73ae471179b47fcb53c72d313e036f85454bcb73fe04c9a59e6e1497bf38f4560bffd0e603e97bf0b6e30e78e383c91625a7ef899811d28f8217c0d3038
   languageName: node
   linkType: hard
 
@@ -11180,7 +11180,7 @@ __metadata:
     "@angular/forms": "npm:^20.3.2"
     "@angular/platform-browser": "npm:^20.3.2"
     "@angular/platform-browser-dynamic": "npm:^20.3.2"
-    "@angular/router": "npm:^20.3.2"
+    "@angular/router": "npm:^20.3.32"
     "@angular/service-worker": "npm:^20.3.2"
     "@commitlint/cli": "npm:^11.0.0"
     "@commitlint/config-conventional": "npm:^11.0.0"
